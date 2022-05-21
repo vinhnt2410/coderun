@@ -1,0 +1,6 @@
+#ifndef __CONNECTION_HEADER__
+#define __CONNECTION_HEADER__
+
+
+
+#endif //__CONNECTION_HEADER__
